@@ -1,0 +1,22 @@
+# --- Временные файлы и папки Vivado ---
+*.log
+*.jou
+*.str
+*.os
+.Xil/
+/MatrixCalc.cache/
+/MatrixCalc.hw/
+/MatrixCalc.ip_user_files/
+/MatrixCalc.runs/
+/MatrixCalc.sim/
+/MatrixCalc.gen/
+
+# --- Файлы симуляции ---
+xsim.dir/
+xvlog.pb
+xsim.jou
+xsim.log
+
+# --- Прочее ---
+.DS_Store
+*.swp
